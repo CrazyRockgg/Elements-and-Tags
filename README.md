@@ -2,10 +2,12 @@
 
 A very beginner-friendly project showing the difference between container and void tags.
 
+## Demo
+https://crazyrockgg.github.io/Elements-and-Tags/
+
 ## ✨ Features
 
 - HTML code and comments, there's nothing there
-
 
 ## 🧠 What I learned
 
@@ -26,11 +28,11 @@ git clone https://github.com/CrazyRockgg/The-Odin-Project.git
 ## 🚀 Usage
 
 - Clone the project.
-- Enter this command into your terminal 
 - Navigate to HTML/Elements and Tags/index.html
 - Open the index.html in your preferred browser
 - Look into the code and comments
 
 ## 📜 Licence
+
 
 MIT Licence
